@@ -15,6 +15,11 @@
 .third  .container  .row.third  button{width:132px; height:100px;}
 .third  .container  .row.third  button i{font-size: 35px;color: #1E90FF;padding: 2px;}
 
+.first .container-fluid{background-color:#1E90FF; }
+.first .container-fluid .row h4{color:white;margin-left:30px; margin-top:50px;}
+.first .container-fluid .row span{color:white; margin-top:50px; }
+.second .container-fluid .topic{border-bottom:1px solid grey; margin-top:20px; margin-bottom:10px; padding-bottom:20px; margin-left:30px;}
+.second .container-fluid .topic span{color:#1E90FF; margin-left:130px;}
 
 footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
 footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
