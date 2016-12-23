@@ -1,4 +1,21 @@
 .header {background-color:#1E90FF; height:200px;}
 .header  .container  .row.main  .img {text-align:center; margin-top:80px;}
-.header  .container  .row.main  a{color:yellow; margin-top:30px;}
+.header  .container  .row.main  a{color:white; margin-top:30px;}
 .header  .container  .row.main  span{margin-top:26px;}
+
+.first  .container  .row.icon{margin-top:10px;text-align:center;}
+.first  .container  .row.icon  button {width:132px; height:100px;}
+.first  .container  .row.icon  button i{font-size: 35px; color: #1E90FF;padding: 2px;}
+
+.second  .container  .row.second{margin-top:10px;text-align:center;}
+.second  .container  .row.second  button{width:132px; height:100px;}
+.second  .container  .row.second  button i{font-size: 35px;color: #1E90FF;padding: 2px;}
+
+.third  .container  .row.third{margin-top:10px;text-align:center;}
+.third  .container  .row.third  button{width:132px; height:100px;}
+.third  .container  .row.third  button i{font-size: 35px;color: #1E90FF;padding: 2px;}
+
+
+footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
+footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
+footer .container .row.footer .col-xs-3 a i {font-size:18px;}
