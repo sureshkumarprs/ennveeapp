@@ -19,6 +19,7 @@
 .first .container-fluid .row h4{color:white;margin-left:30px; margin-top:50px;}
 .first .container-fluid .row span{color:white; margin-top:50px; }
 .second .container-fluid .topic{border-bottom:1px solid grey; margin-top:20px; margin-bottom:10px; padding-bottom:20px; margin-left:30px;}
+.second .container-fluid .topic:last-child{border-bottom:none;}
 .second .container-fluid .topic span{color:#1E90FF; margin-left:130px;}
 
 footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
