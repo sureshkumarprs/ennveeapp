@@ -47,7 +47,8 @@ footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 .contact .container-fluid  .row  .col-xs-12.two  button {background: red;color: white;width: 80%;margin-top: 35px;}
 
 
-.homepage  {background-color:#1E90FF;height:601px;}
+.homepage  {background-color:#1E90FF;height:800px;}
+.homepage  .container  .row.logo  .col-xs-12 i{color:white;opacity:0.3; font-size:20px;margin-top:2px;}
 .homepage  .container  .row.logo  .col-xs-12 .logo  img {text-align:center; margin-top:220px;}
 
 
