@@ -16,7 +16,7 @@
 .third  .container  .row.third  button i{font-size: 35px;color: #1E90FF;padding: 2px;}
 
 .first .container-fluid{background-color:#1E90FF; }
-.first .container-fluid .row h4{color:white;margin-left:30px; margin-top:50px;}
+.first .container-fluid .row h4{color:white;text-align:center; margin-top:50px;}
 .first .container-fluid .row span{color:white; margin-top:50px; }
 .second .container-fluid .topic{border-bottom:1px solid grey; margin-top:20px; margin-bottom:10px; padding-bottom:20px; margin-left:30px;}
 .second .container-fluid .topic:last-child{border-bottom:none;}
@@ -25,3 +25,6 @@
 footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
 footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
 footer .container .row.footer .col-xs-3 a i {font-size:18px;}
+
+.detail .container-fluid .row{background-image:url("../images/B-A.jpg");background-size:100%;background-repeat:no-repeat;height:1000px;}
+.detail .container-fluid .row h4{}
