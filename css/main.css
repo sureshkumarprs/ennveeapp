@@ -28,8 +28,12 @@ footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 
 .address .container-fluid .row address h3 {color:#1E90FF;}
 .address .container-fluid .row address {font-family: 'Roboto', sans-serif;}
-.map{background-color:#1E90FF; height:60px;}
+.map{background-color:#1E90FF; height:60px;font-family: 'Roboto', sans-serif;}
 .map .row .col-xs-6{text-align:center;}
 .map .row .col-xs-6.one  i{color:white; font-size:18px;  margin-top: 17px;}
 .map .row .col-xs-6.two  i{color:white; font-size:15px;  margin-top: 17px;}
 .map .row .col-xs-12 iframe{margin-top:22px;width:100%}
+.contact .container-fluid  .row.contact i {border-bottom: 1px solid grey;width: 100%;margin-top: 26px;padding:15px;}
+.contact .container-fluid  .row.contact span {margin-top: 26px;padding:15px;font-family: 'Roboto', sans-serif;}
+.contact .container-fluid  .row .col-xs-12.two{text-align:center;}
+.contact .container-fluid  .row  .col-xs-12.two  button {background: red;color: white;width: 80%;margin-top: 35px;}
