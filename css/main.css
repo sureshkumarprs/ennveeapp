@@ -26,7 +26,7 @@ footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
 footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
 footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 
-.address .container-fluid .row address h3 {color:#1E90FF;}
+.address .container-fluid .row address h3 {color:#1E90FF;font-family: 'Oswald', sans-serif;}
 .address .container-fluid .row address {font-family: 'Roboto', sans-serif;}
 .map{background-color:#1E90FF; height:60px;font-family: 'Roboto', sans-serif;}
 .map .row .col-xs-6{text-align:center;}
