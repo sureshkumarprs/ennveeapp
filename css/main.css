@@ -22,7 +22,7 @@
 .second .container-fluid .topic:last-child{border-bottom:none;}
 .second .container-fluid .topic span{color:#1E90FF; margin-left:130px;}
 
-footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
+footer .container .row.footer {border-top: 1px red solid;margin-top: 16px;}
 footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
 footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 
