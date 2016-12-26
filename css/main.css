@@ -26,10 +26,14 @@ footer .container .row.footer {border-top: 1px grey solid;margin-top: 16px;}
 footer .container .row.footer .col-xs-3 {text-align: center;margin-top: 20px;}
 footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 
-<<<<<<< HEAD
-.detail .container-fluid .row{background-image:url("../images/B-A.jpg");background-size:100%;background-repeat:no-repeat;height:1000px;}
 
-=======
+.detail .container-fluid .row{background-image:url("../images/bg.jpg");background-size:100%;background-repeat:no-repeat;height:160px;}
+.detail .container-fluid .row h2{color:white; margin-left: 13px;margin-top: 85px;}
+.detail .container-fluid .row h5{color:white; }
+.detail .container-fluid .row h5 span{margin-right:10px;margin-left:13px;}
+.detail .container-fluid .content p{font-family:'Roboto'; margin-top:10px; text-align:justify;}
+
+
 .address .container-fluid .row address h3 {color:#1E90FF; font-family: 'Oswald', sans-serif;}
 .address .container-fluid .row address {font-family: 'Roboto', sans-serif;}
 .map{background-color:#1E90FF; height:60px;font-family: 'Roboto', sans-serif;}
