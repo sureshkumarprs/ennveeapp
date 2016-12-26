@@ -28,8 +28,8 @@ footer .container .row.footer .col-xs-3 a i {font-size:18px;}
 
 
 .detail .container-fluid .row{background-image:url("../images/bg.jpg");background-size:100%;background-repeat:no-repeat;height:160px;}
-.detail .container-fluid .row h2{color:white; margin-left: 13px;margin-top: 85px;}
-.detail .container-fluid .row h5{color:white; }
+.detail .container-fluid .row h2{color:white; margin-left: 13px;margin-top: 85px;font-family:'Oswald';}
+.detail .container-fluid .row h5{color:white; font-family:'Oswald';}
 .detail .container-fluid .row h5 span{margin-right:10px;margin-left:13px;}
 .detail .container-fluid .content p{font-family:'Roboto'; margin-top:10px; text-align:justify;}
 
